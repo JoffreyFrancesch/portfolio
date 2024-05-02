@@ -1,6 +1,6 @@
 export default function Trainings() {
     return (
-        <section className="mb-5">
+        <section className="mb-8">
             <h2 className="mb-1 text-xl font-semibold tracking-tighter">Trainings & certifications</h2>
             <div className="mb-2">
                 <h3>Design Thinking methodology training</h3>

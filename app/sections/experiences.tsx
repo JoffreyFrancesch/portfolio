@@ -1,6 +1,6 @@
 export default function Experiences() {
     return (
-        <section className="mb-5">
+        <section className="mb-8">
             <h2 className="mb-b text-xl font-semibold tracking-tighter">Experiences</h2>
             <div className="mb-2">
                 <h3>Project manager & software engineer <span className="text-muted">- Société Générale - Paris (France)</span></h3>

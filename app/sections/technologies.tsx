@@ -100,7 +100,7 @@ export default function Technologies() {
     }
 
     return (
-        <section className="mb-5">
+        <section className="mb-8">
             <h2 className="mb-1 text-xl font-semibold tracking-tighter">Technologies</h2>
             <div className="mb-1">
                 <h3>Languages</h3>

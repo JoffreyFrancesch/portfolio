@@ -1,6 +1,6 @@
 export default function Education() {
     return (
-        <section>
+        <section className="mb-8">
             <h2 className="mb-1 text-xl font-semibold tracking-tighter">Education</h2>
             <div>
                 <h3>ESIEA's Master in Engineering (CTI) <span className="text-muted">- Paris (France)</span></h3>
