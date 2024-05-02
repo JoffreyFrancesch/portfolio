@@ -7,6 +7,11 @@ export default function AboutMe() {
         <section>
             <Image src={profilePic} alt="profile picture" className="profile-img" />
             <Hello />
+            <div className="mb-8 text-muted">
+                <p>📍 Currently based in Paris (France)</p>
+                <p>📧 Contact me: <a href="mailto:joffrey.franceschini@icloud.com">joffrey.franceschini@icloud.com</a></p>
+                <a href="https://www.linkedin.com/in/joffrey-franceschini/" target="_blank">👨🏻‍💻 Check my Linkedin profile</a>
+            </div>
             <p className="mb-4">
                 {`I'm software engineer and certified scrum master. 
                 Passionate about software development and developing projects.
