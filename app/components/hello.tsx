@@ -17,7 +17,7 @@ export default function Hello() {
     }, [counter])
 
     return (
-        <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
+        <h1 className="text-2xl font-semibold tracking-tighter">
             {HELLO_TEXT[counter]}, I'm Joffrey 👋
         </h1>
     )
